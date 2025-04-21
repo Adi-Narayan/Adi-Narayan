@@ -1,5 +1,5 @@
 # Hello World!
-I’m a sophomore at MIT Manipal, deeply passionate about AI, robotics, and computer vision. My interests blend technology and innovation, especially in intelligent systems and autonomous machines. Outside the classroom, I channel my love for space into thrustMIT, a student rocketry team, where I contribute to pushing the boundaries of student-led aerospace exploration.
+As a second-year Computer Science student at Manipal Institute of Technology, I’m passionate about exploring the ever-evolving world of technology and its applications. Eager to learn, innovate, and collaborate, I'm excited to build a strong programming, problem-solving, and software development foundation. Open to new opportunities and connections in the tech industry.
 
 
 ## 🌐 Socials:
