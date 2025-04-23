@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World :)
 As a second-year Computer Science student at Manipal Institute of Technology, I’m passionate about exploring the ever-evolving world of technology and its applications. Eager to learn, innovate, and collaborate, I'm excited to build a strong programming, problem-solving, and software development foundation. Open to new opportunities and connections in the tech industry.
 
 
